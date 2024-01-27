@@ -48,3 +48,6 @@ NetBeans IDE para o desenvolvimento.
 Componentes gráficos do Swing para a interface do usuário.
 Persistência de dados usando JDBC, arquivos ou outra solução adequada.
 Esse projeto proporciona uma experiência prática na implementação de operações CRUD em Java, explorando também a inclusão de funcionalidades de filtragem para otimizar a visualização e gerenciamento da lista de tarefas.
+
+Eu decidi usar Java para esse projeto porque é a linguagem com a qual mais me sinto à vontade. Já lidei bastante com Java ao longo dos meus estudos em Engenharia de Computação, então achei natural usar essa familiaridade para criar algo sólido.
+Além disso, como estou interessado em aprender Kotlin, percebi que Java e Kotlin têm muitas semelhanças. Isso significa que, ao trabalhar com Java, estou meio que dando um passo em direção ao que quero aprender a seguir.
