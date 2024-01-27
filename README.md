@@ -5,7 +5,7 @@ OBS: Estas instruções são destinadas aos responsáveis pelo processo seletivo
 
 #Segue as instruções para fazer a aplicação funcionar em uma máquina externa:
 
-1. Faça o download do arquivo ZIP do projeto, do arquivo de backup do banco de dados e do driver JDBC MySQL.
+1. Faça o download do arquivo ZIP do projeto (repositório do GitHub), do arquivo do banco de dados e do driver JDBC MySQL (Enviado por email).
 Transfira os arquivos baixados para a máquina.
 
 2. Instale o WampServer64 (ou versão correspondente) na máquina, se ainda não estiver instalado.
